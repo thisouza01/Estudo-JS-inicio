@@ -1,1 +1,1 @@
-# Estudo-JS-inicio
+# Estudo-Javascript
